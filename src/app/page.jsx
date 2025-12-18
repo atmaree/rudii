@@ -43,4 +43,9 @@ export default function Home() {
 
       {musicStarted && <Music shouldPlay={musicStarted} />}
 
+      </div>
+);
+}
+
+
       
